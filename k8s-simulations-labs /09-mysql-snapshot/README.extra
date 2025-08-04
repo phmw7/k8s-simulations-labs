@@ -1,0 +1,2 @@
+Use Velero or CSI snapshot tools in supported environments like GKE or EKS.
+This example assumes prerequisites are installed (snapshot controller, CRDs, and driver).
